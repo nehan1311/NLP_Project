@@ -1,7 +1,7 @@
 # NLP Assignment – Twitter Sentiment Analysis
 
-**Author:** Shreya Newaskar
-**PRN:** 202301040240
+**Author:** Neha Narkhede
+**PRN:** 202301040146
 
 ---
 
